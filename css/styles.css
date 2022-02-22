@@ -6,4 +6,17 @@
 
 .text {
     color:white;
+    text-align: center;
+    font-family: Arial,sans-serif;
+}
+
+.text.important {
+    font-family: 'Times New Roman',serif;
+
+}
+
+.img {
+    background-color: aqua;
+    height: auto;
+    width: 300px;
 }
